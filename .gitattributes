@@ -1,0 +1,3 @@
+* -filter -text -ident
+*.cvlt binary -delta
+*.age binary -delta

@@ -1,0 +1,1 @@
+{"format_version":1,"hash":"sha256","key_wrap":"age-x25519","magic":"columba-vault","manifest_signature":"ed25519","object_cipher":"xchacha20poly1305-secretstream","root_signing_public_key":"MCowBQYDK2VwAyEAZQKxruXAKP9cGbGYNI5Frs9prHZ1NKIx/O4h3919OHY=","vault_id":"6d18c12e114cb12c402ade01e8718673"}
